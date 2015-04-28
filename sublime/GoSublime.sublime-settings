@@ -1,0 +1,7 @@
+{
+    "use_gs_gopath": true,
+    // "fmt_tab_indent": false,
+    // "fmt_tab_width": 4,
+    "autocomplete_tests": true,
+    "autocomplete_builtins": true
+}

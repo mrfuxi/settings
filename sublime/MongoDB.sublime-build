@@ -1,0 +1,5 @@
+{  
+    "selector": "source.js",
+    "shell": true,
+    "cmd": "mongo --quiet < $file"
+}

@@ -1,0 +1,24 @@
+{
+	"9o.hist./home/fuxi/projekty/git/hashtock-go":
+	[
+		"goapp serve",
+		"go list",
+		"help",
+		"sh goapp serve"
+	],
+	"9o.hist./home/fuxi/projekty/git/src/github.com/hashtock/tracker/cli":
+	[
+		"help"
+	],
+	"9o.hist./home/fuxi/projekty/hash":
+	[
+		"help"
+	],
+	"9o.hist./home/karol/other-projects/go-colors":
+	[
+		"go run"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

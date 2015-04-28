@@ -1,0 +1,4 @@
+{
+    "shell": true,
+    "shell_cmd": "/home/fuxi/go_appengine/goapp serve"
+}

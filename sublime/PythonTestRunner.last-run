@@ -1,0 +1,3 @@
+{
+	"last_test_run": "nosetests planning.tests.functional.views.rm_user_tests:RMUsersViewTestCase.test_view_type_using_form_matix"
+}

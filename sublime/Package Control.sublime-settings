@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"AngularJS",
+		"Case Conversion",
+		"Compare Side-By-Side",
+		"Djaneiro",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EasyMotion",
+		"FilterPipes",
+		"Git",
+		"GoSublime",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Indent XML",
+		"INI",
+		"Jinja2",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"Python Auto-Complete",
+		"QML",
+		"SCSS",
+		"Siteleaf Liquid Syntax",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-contrib-golint",
+		"SublimeLinter-pylint",
+		"SublimePythonIDE",
+		"SVG-Snippets",
+		"Text Pastry"
+	]
+}

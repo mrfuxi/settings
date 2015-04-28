@@ -1,0 +1,13 @@
+{
+    "mongo_exec.debug": false,
+    "connections": {
+        "Localhost": {
+            "type"    : "mongo",
+            "host"    : "localhost",
+            "port"    : "27017",
+            "username": "",
+            "password": "",
+            "databases": ""
+        }
+    }
+}
