@@ -1,0 +1,107 @@
+### Clojure/lein
+pom.xml
+*jar
+/lib/
+/classes/
+/targets/
+.lein-deps-sum
+
+### Gradle
+.gradle/
+common/
+*.log
+
+### EMACS
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+### VIM
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### DJANGO
+*.log
+*.pot
+local_settings.py
+
+### PYTHON
+*.py[cod]
+__pycache__/
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build/
+eggs/
+parts
+bin
+var/
+sdist/
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+ 
+
+### Node.js
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+
+
+### OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+### End OSX
+
+### GAE
+
+libraries
+
+### Sublime
+
+*.sublime-*

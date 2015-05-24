@@ -1,0 +1,33 @@
+[user]
+    name = Karol Duleba
+    email = karol@potatolondon.com
+    #email = mr.fuxi@gmail.com
+
+[core]
+    excludesfile = ~/.gitignore_global
+    autocrlf = input
+    editor = vim
+
+[color]
+    ui = true
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    pd = diff --patience
+    review = log -U20 --patch --no-merges --reverse development..
+    safemerge = merge --no-ff --no-commit
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    slog = log --pretty=oneline --no-merges --reverse development.. --abbrev-commit
+    codediff = !git diff $1 -- $(git diff --name-only $1 | grep -v test | grep -v migrations)
+    testdiff = !git diff $1 -- $(git diff --name-only $1 | grep test)
+    migrationsdiff = !git diff $1 -- $(git diff --name-only $1 | grep migrations)
+
+[diff]
+    orderfile = ~/.git.orderfile
+    #algorithm = patience
+
+[push]
+    default = simple
