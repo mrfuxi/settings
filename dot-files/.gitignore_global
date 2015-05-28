@@ -105,3 +105,6 @@ libraries
 ### Sublime
 
 *.sublime-*
+
+### Go
+gin-bin
