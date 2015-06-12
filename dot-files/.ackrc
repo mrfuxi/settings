@@ -26,6 +26,7 @@
 --ignore-directory=is:CACHE
 --ignore-directory=is:.sass-cache
 --ignore-directory=is:sitepackages
+--ignore-directory=is:.google_appengine
 --ignore-directory=is:cover
 --ignore-directory=is:migrations
 --ignore-directory=is:tests
