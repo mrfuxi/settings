@@ -25,6 +25,7 @@
 		"Jinja2",
 		"JsFormat",
 		"MarkdownEditing",
+		"nginx",
 		"Package Control",
 		"Pretty JSON",
 		"Python Auto-Complete",
