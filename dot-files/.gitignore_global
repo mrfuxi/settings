@@ -104,8 +104,8 @@ libraries
 
 ### Sublime
 
-*.sublime-*
-!*.sublime-snippet
+*.sublime-project
+*.sublime-workspace
 
 ### Go
 gin-bin
