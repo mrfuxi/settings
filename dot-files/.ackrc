@@ -42,8 +42,10 @@
 --ignore-file=match:/[.]js[.]min$/
 --ignore-file=match:/[.]min[.]css$/
 --ignore-file=match:/[.]css[.]min$/
+--ignore-file=match:test.go$/
 --ignore-file=ext:pdf
 --ignore-file=ext:gif,jpg,jpeg,png
+--ignore-file=ext:sublime-workspace
 --type-add=perl:ext:pl,pm,pod,t,psgi
 --type-add=perl:firstlinematch:/^#!.*\bperl/
 --type-add=perltest:ext:t
