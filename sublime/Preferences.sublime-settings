@@ -24,8 +24,8 @@
 	[
 		"Vintage",
 		"SublimeLinter",
-		"SublimeLinter-pylint",
 		"Markdown",
+		"SublimeLinter-pylint",
 		"SublimePythonIDE"
 	],
 	"indent_guide_options":
