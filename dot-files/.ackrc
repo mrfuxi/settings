@@ -31,6 +31,8 @@
 --ignore-directory=is:migrations
 --ignore-directory=is:tests
 --ignore-directory=is:vendor
+--ignore-directory=is:.tox
+--ignore-directory=is:coverage-html
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
