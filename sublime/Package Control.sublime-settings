@@ -41,6 +41,7 @@
 		"SublimeLinter-pylint",
 		"SublimePythonIDE",
 		"SVG-Snippets",
-		"Text Pastry"
+		"Text Pastry",
+		"TrailingSpaces"
 	]
 }
