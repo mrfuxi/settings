@@ -33,6 +33,7 @@
 --ignore-directory=is:vendor
 --ignore-directory=is:.tox
 --ignore-directory=is:coverage-html
+--ignore-directory=is:coverage_html
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
