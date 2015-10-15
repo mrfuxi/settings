@@ -6,7 +6,8 @@
 		"refactoring",
 		"diff",
 		"blog",
-		"Django"
+		"Django",
+		"memcache"
 	],
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -22,11 +23,11 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter",
+		"SublimePythonIDE",
 		"Markdown",
 		"SublimeLinter-pylint",
-		"SublimePythonIDE"
+		"SublimeLinter",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

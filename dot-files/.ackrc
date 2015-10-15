@@ -36,6 +36,7 @@
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
+--ignore-file=match:test.*
 --ignore-file=match:/~$/
 --ignore-file=match:/^#.+#$/
 --ignore-file=match:/[._].*\.swp$/
