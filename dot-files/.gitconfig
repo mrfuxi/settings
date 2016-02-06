@@ -1,7 +1,6 @@
 [user]
     name = Karol Duleba
-    email = karol@potatolondon.com
-    #email = mr.fuxi@gmail.com
+    email = mr.fuxi@gmail.com
 
 [core]
     excludesfile = ~/.gitignore_global
