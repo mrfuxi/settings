@@ -1,6 +1,6 @@
 {
     "complete_all_parameters": true,
     "complete_parameters": true,
-    "pep8_max_line_length": 130,
+    "pep8_max_line_length": 120,
     "display_signatures": true
 }
