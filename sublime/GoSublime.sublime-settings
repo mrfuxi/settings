@@ -1,5 +1,5 @@
 {
-    "fmt_cmd": ["goimports"],
+    "fmt_cmd": ["goimports", "-srcdir", "$_dir"],
     "use_gs_gopath": true,
     "autocomplete_tests": true,
     "autocomplete_builtins": true
