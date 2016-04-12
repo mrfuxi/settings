@@ -24,9 +24,9 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"SublimePythonIDE",
 		"Markdown",
 		"SublimeLinter-pylint",
-		"SublimePythonIDE",
 		"Vintage"
 	],
 	"indent_guide_options":
