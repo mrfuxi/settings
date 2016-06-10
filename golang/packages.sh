@@ -7,4 +7,5 @@ go get -u golang.org/x/tools/present
 go get -u github.com/golang/lint/golint
 go get -u golang.org/x/tools/cmd/gorename
 go get -u github.com/alecthomas/gometalinter
-go get -u go get -ugithub.com/rogpeppe/godef
+go get -u github.com/rogpeppe/godef
+go get -u github.com/shurcooL/Go-Package-Store
