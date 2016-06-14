@@ -34,6 +34,7 @@
 --ignore-directory=is:.tox
 --ignore-directory=is:coverage-html
 --ignore-directory=is:coverage_html
+--ignore-directory=is:__pycache__
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
@@ -48,6 +49,7 @@
 --ignore-file=match:/[.]css[.]min$/
 --ignore-file=match:test.go$/
 --ignore-file=ext:pdf
+--ignore-file=ext:zip,gz
 --ignore-file=ext:gif,jpg,jpeg,png
 --ignore-file=ext:sublime-workspace
 --type-add=perl:ext:pl,pm,pod,t,psgi
