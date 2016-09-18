@@ -32,6 +32,8 @@
 --ignore-directory=is:tests
 --ignore-directory=is:vendor
 --ignore-directory=is:.tox
+--ignore-directory=is:tmp
+--ignore-directory=is:dist
 --ignore-directory=is:coverage-html
 --ignore-directory=is:coverage_html
 --ignore-directory=is:__pycache__
@@ -45,8 +47,10 @@
 --ignore-file=match:/core\.\d+$/
 --ignore-file=match:/[.-]min[.]js$/
 --ignore-file=match:/[.]js[.]min$/
+--ignore-file=match:/[.]js[.]map$/
 --ignore-file=match:/[.]min[.]css$/
 --ignore-file=match:/[.]css[.]min$/
+--ignore-file=match:/[.]css[.]map$/
 --ignore-file=match:test.go$/
 --ignore-file=ext:pdf
 --ignore-file=ext:zip,gz
