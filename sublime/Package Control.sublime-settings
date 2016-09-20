@@ -7,6 +7,7 @@
 	[
 		"All Autocomplete",
 		"Anaconda",
+		"Angular 2 Snippets (John Papa)",
 		"AngularJS",
 		"BufferScroll",
 		"Case Conversion",
@@ -48,6 +49,8 @@
 		"SVG-Snippets",
 		"Terraform",
 		"Text Pastry",
-		"TrailingSpaces"
+		"TOML",
+		"TrailingSpaces",
+		"TypeScript"
 	]
 }
