@@ -1,6 +1,8 @@
 {
-    "fmt_cmd": ["goimports", "-srcdir", "$_dir"],
+    "fmt_cmd": ["goimports"],
     "use_gs_gopath": true,
+    "gslint_timeout": 1000,
+    "ipc_timeout": 1000,
     "autocomplete_tests": true,
     "autocomplete_builtins": true
 }

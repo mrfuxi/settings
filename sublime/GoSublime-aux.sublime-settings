@@ -18,7 +18,11 @@
 	[
 		"go run"
 	],
-	"ann": "a16.03.22-1",
-	"install_version": "r16.01.09-1",
-	"version": "r16.03.22-1"
+	"9o.hist./home/karol/pet-projects/src/github.com/mrfuxi/digit/test":
+	[
+		"help"
+	],
+	"ann": "a16.07.09-1",
+	"install_version": "r16.07.09-1",
+	"version": "r16.07.09-1"
 }
