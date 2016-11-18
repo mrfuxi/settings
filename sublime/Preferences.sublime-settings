@@ -25,6 +25,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"PgcliSublime",
 		"SublimeLinter-pylint",
 		"SublimePythonIDE",
 		"Vintage"

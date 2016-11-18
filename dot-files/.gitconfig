@@ -16,10 +16,10 @@
     co = checkout
     br = branch
     pd = diff --patience
-    review = log -U20 --patch --no-merges --reverse development..
+    review = log -U20 --patch --no-merges --reverse master..
     safemerge = merge --no-ff --no-commit
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
-    slog = log --pretty=oneline --no-merges --reverse development.. --abbrev-commit
+    slog = log --pretty=oneline --no-merges --reverse master.. --abbrev-commit
     codediff = !git diff $1 -- $(git diff --name-only $1 | grep -v test | grep -v migrations)
     testdiff = !git diff $1 -- $(git diff --name-only $1 | grep test)
     migrationsdiff = !git diff $1 -- $(git diff --name-only $1 | grep migrations)

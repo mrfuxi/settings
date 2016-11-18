@@ -38,6 +38,7 @@
 --ignore-directory=is:coverage_html
 --ignore-directory=is:__pycache__
 --ignore-directory=is:tmp
+--ignore-directory=is:build
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
