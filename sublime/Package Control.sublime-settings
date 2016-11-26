@@ -9,6 +9,7 @@
 		"Anaconda",
 		"Angular 2 Snippets (John Papa)",
 		"AngularJS",
+		"AutoFileName",
 		"BufferScroll",
 		"Case Conversion",
 		"Compare Side-By-Side",
@@ -29,7 +30,6 @@
 		"Ionic Framework Snippets",
 		"Ionic Snippets",
 		"Jinja2",
-		"JSCS-Formatter",
 		"JsFormat",
 		"MagicPython",
 		"MarkdownEditing",
@@ -53,6 +53,8 @@
 		"Text Pastry",
 		"TOML",
 		"TrailingSpaces",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }

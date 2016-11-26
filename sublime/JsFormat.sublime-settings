@@ -1,0 +1,6 @@
+{
+    "end_with_newline": true,
+    "jsbeautifyrc_files": true,
+    "format_on_save": true,
+    "format_on_save_extensions": ["js", "json"]
+}
