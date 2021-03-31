@@ -1,0 +1,5 @@
+{
+    "black_command": "/Users/karol/.virtualenvs/workflows/bin/black",
+    "black_log": "debug",
+    "black_use_blackd": true
+}

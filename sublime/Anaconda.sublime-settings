@@ -1,6 +1,9 @@
 {
+    "python_interpreter": "python3",
     "complete_all_parameters": true,
     "complete_parameters": true,
-    "pep8_max_line_length": 120,
-    "display_signatures": true
+    "pep8_max_line_length": 80,
+    "test_command": "pytest",
+    "display_signatures": true,
+    "mypy": false
 }

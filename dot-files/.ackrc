@@ -39,7 +39,10 @@
 --ignore-directory=is:__pycache__
 --ignore-directory=is:tmp
 --ignore-directory=is:build
+--ignore-directory=is:logs
+--ignore-directory=is:target
 --ignore-directory=is:.mypy_cache
+--ignore-directory=is:.pytest_cache
 --ignore-file=ext:diff
 --ignore-file=ext:bak
 --ignore-file=is:nosetests.xml
@@ -59,6 +62,7 @@
 --ignore-file=ext:zip,gz
 --ignore-file=ext:gif,jpg,jpeg,png
 --ignore-file=ext:sublime-workspace
+--ignore-file=match:.coverage$/
 --type-add=perl:ext:pl,pm,pod,t,psgi
 --type-add=perl:firstlinematch:/^#!.*\bperl/
 --type-add=perltest:ext:t
