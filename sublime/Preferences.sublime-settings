@@ -1,3 +1,4 @@
+
 {
 	"added_words":
 	[
@@ -19,7 +20,11 @@
 		".git",
 		".hg",
 		"CVS",
-		".sass-cache"
+		".sass-cache",
+		"__pycache__",
+		"coverage",
+		".mypy_cache",
+		".pytest_cache"
 	],
 	"font_size": 10,
 	"ignored_packages":
@@ -29,7 +34,7 @@
 		"PgcliSublime",
 		"SublimeLinter-pylint",
 		"SublimePythonIDE",
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -38,8 +43,10 @@
 	],
 	"settings":
 	{
-		"python_interpreter": "/usr/bin/python2.7"
+		"python_interpreter": "/usr/bin/python2.7",
 	},
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
+	"auto_complete_use_history": true,
+	"auto_complete_preserve_order": "some",
 }
