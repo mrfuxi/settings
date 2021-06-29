@@ -1,0 +1,4 @@
+! option
+  xps_mod               XPS keyboard patch
+  xps_mod:left_as_home  Left Alt+Left act as Home
+  xps_mod:right_as_end  Left Alt+Right act as End

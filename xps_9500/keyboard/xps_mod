@@ -1,0 +1,17 @@
+partial modifier_keys
+xkb_symbols "left_as_home" {
+    key <LEFT> {
+        type= "PC_ALT_LEVEL2",
+        symbols[Group1]= [           Left,         Home ],
+        actions[Group1]= [      NoAction(),      RedirectKey(keycode=<HOME>, clearmods=Alt) ]
+    };
+};
+
+partial modifier_keys
+xkb_symbols "right_as_end" {
+    key <RGHT> {
+        type= "PC_ALT_LEVEL2",
+        symbols[Group1]= [           Right,         End ],
+        actions[Group1]= [      NoAction(),      RedirectKey(keycode=<END>, clearmods=Alt) ]
+    };
+};

@@ -1,0 +1,20 @@
+  <optionList>
+    <group allowMultipleSelection="true">
+      <configItem>
+        <name>xps_mod</name>
+        <description>XPS keyboard patch</description>
+      </configItem>
+      <option>
+        <configItem>
+          <name>xps_mod:left_as_home</name>
+          <description>Left Alt+Left act as Home</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
+          <name>xps_mod:right_as_end</name>
+          <description>Left Alt+Right act as End</description>
+        </configItem>
+      </option>
+    </group>
+  </optionList>
