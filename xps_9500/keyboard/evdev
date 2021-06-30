@@ -1,0 +1,3 @@
+! option    =   symbols
+    xps_mod:left_as_home    =   +xps_mod(left_as_home)
+    xps_mod:right_as_end    =   +xps_mod(right_as_end)
