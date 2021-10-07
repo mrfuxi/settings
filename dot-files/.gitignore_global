@@ -111,3 +111,7 @@ gin-bin
 
 # Other sutff
 tmp
+
+# Env
+.envrc
+.editorconfig
