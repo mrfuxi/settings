@@ -38,6 +38,7 @@
 		"Python 3",
 		"Python Completions",
 		"QML",
+		"rainbow_csv",
 		"SCSS",
 		"SideBarEnhancements",
 		"Siteleaf Liquid Syntax",
@@ -55,6 +56,6 @@
 		"TrailingSpaces",
 		"TypeScript",
 		"Vue Syntax Highlight",
-		"Vuejs Snippets"
-	]
+		"Vuejs Snippets",
+	],
 }
