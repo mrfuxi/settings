@@ -1,0 +1,57 @@
+{
+  "createdAt": "2021-10-28T08:33:24.516Z",
+  "createdBy": "Redirector v3.5.3",
+  "redirects": [
+    {
+      "appliesTo": [
+        "main_frame"
+      ],
+      "description": "Medium -> Scribe",
+      "disabled": false,
+      "error": null,
+      "exampleResult": "https://scribe.rip/@user/post-123456abcdef",
+      "exampleUrl": "https://medium.com/@user/post-123456abcdef",
+      "excludePattern": "",
+      "grouped": false,
+      "includePattern": "https?://(?:.*)medium.com/(.*)",
+      "patternDesc": "",
+      "patternType": "R",
+      "processMatches": "noProcessing",
+      "redirectUrl": "https://scribe.rip/$1"
+    },
+    {
+      "appliesTo": [
+        "main_frame"
+      ],
+      "description": "ft -> archive.is",
+      "disabled": false,
+      "error": null,
+      "exampleResult": "https://archive.is/search/?q=https://www.ft.com/content/a5fa2ba2-1fdf-4a55-a500-fdb0e7cba8e6",
+      "exampleUrl": "https://www.ft.com/content/a5fa2ba2-1fdf-4a55-a500-fdb0e7cba8e6",
+      "excludePattern": "",
+      "grouped": false,
+      "includePattern": "(https://www.ft.com/.+)",
+      "patternDesc": "",
+      "patternType": "R",
+      "processMatches": "noProcessing",
+      "redirectUrl": "https://archive.is/search/?q=$1"
+    },
+    {
+      "appliesTo": [
+        "main_frame"
+      ],
+      "description": "nytimes -> archive.is",
+      "disabled": false,
+      "error": null,
+      "exampleResult": "https://archive.is/search/?q=https://www.nytimes.com/2021/03/05/us/politics/latino-voters-democrats.html",
+      "exampleUrl": "https://www.nytimes.com/2021/03/05/us/politics/latino-voters-democrats.html",
+      "excludePattern": "",
+      "grouped": false,
+      "includePattern": "(https://www.nytimes.com/.+)",
+      "patternDesc": "",
+      "patternType": "R",
+      "processMatches": "noProcessing",
+      "redirectUrl": "https://archive.is/search/?q=$1"
+    }
+  ]
+}
