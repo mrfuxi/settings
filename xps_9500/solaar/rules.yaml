@@ -1,0 +1,6 @@
+%YAML 1.3
+---
+- Rule:
+  - Key: Middle Button
+  - KeyPress: Super_L
+...
