@@ -29,12 +29,19 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"EditorConfig",
+		"GoRename",
+		"Indent XML",
+		"INI",
 		"MagicPython",
 		"Markdown",
+		"MarkdownPreview",
 		"PgcliSublime",
 		"SublimeLinter-pylint",
 		"SublimePythonIDE",
+		"Terraform",
 		"Vintage",
+		"Vuejs Snippets",
 	],
 	"indent_guide_options":
 	[

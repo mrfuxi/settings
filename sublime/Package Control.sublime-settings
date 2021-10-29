@@ -17,6 +17,7 @@
 		"EditorConfig",
 		"FilterPipes",
 		"Git",
+		"Gofmt",
 		"GoRename",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
@@ -49,12 +50,13 @@
 		"SublimeLinter-pylint",
 		"SublimePythonIDE",
 		"SVG-Snippets",
+		"Terminus",
 		"Terraform",
 		"Text Pastry",
 		"TOML",
 		"TrailingSpaces",
 		"TypeScript",
 		"Vue Syntax Highlight",
-		"Vuejs Snippets"
-	]
+		"Vuejs Snippets",
+	],
 }

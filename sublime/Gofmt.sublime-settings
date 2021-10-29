@@ -1,0 +1,6 @@
+{
+  "cmds": [
+    ["gofmt", "-e", "-s"],
+    ["goimports", "-e"]
+  ]
+}

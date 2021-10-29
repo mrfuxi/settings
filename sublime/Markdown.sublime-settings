@@ -3,5 +3,5 @@
     [
         "mdown"
     ],
-    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme"
+    /*"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",*/
 }

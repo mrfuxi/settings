@@ -1,0 +1,6 @@
+{
+    "default_config": {
+        "linux": "Zsh",
+        "osx": "Zsh"
+    }
+}
