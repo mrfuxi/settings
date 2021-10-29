@@ -21,7 +21,7 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
-export GOPATH=$HOME/go:$HOME/projekty/git
+export GOPATH=$HOME/go
 PATH=$PATH:$HOME/google_appengine:$GOPATH/bin:$HOME/.local/bin:$HOME/bin:/usr/local/go/bin
 export PATH
 
