@@ -115,5 +115,3 @@ tmp
 # Env
 .envrc
 .editorconfig
-
-go.sum
