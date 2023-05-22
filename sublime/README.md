@@ -7,9 +7,9 @@ To use these settings you need to symlink `sublime` (this) directory as `~/.conf
 You can fallow instructions below:
 
 ```bash
-mkdir -p ~/.config/sublime-text-3/Packages
-rm -r ~/.config/sublime-text-3/Packages/User
-ln -s ~/settings/sublime ~/.config/sublime-text-3/Packages/User
+mkdir -p ~/.config/sublime-text/Packages
+rm -r ~/.config/sublime-text/Packages/User
+ln -s ~/settings/sublime ~/.config/sublime-text/Packages/User
 ```
 
 V2 (new mac?):
