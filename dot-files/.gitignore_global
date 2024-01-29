@@ -115,3 +115,5 @@ tmp
 # Env
 .envrc
 .editorconfig
+
+.python-version

@@ -25,6 +25,8 @@
     testdiff = !git diff $1 -- $(git diff --name-only $1 | grep test)
     migrationsdiff = !git diff $1 -- $(git diff --name-only $1 | grep migrations)
     release = log --merges --pretty=format:'%b %Cgreen(%ar) %C(bold blue)<%an>%Creset'
+    prs-test = !git log test..develop --merges | grep 'Merge pull' | cut -d' ' -f8 | sort
+    prs-prod = !git log master..test --merges | grep 'Merge pull' | cut -d' ' -f8 | sort
 
 [diff]
     orderfile = ~/.git.orderfile
